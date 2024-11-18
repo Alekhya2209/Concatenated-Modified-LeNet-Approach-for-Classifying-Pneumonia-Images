@@ -1,0 +1,1 @@
+# Concatenated-Modified-LeNet-Approach-for-Classifying-Pneumonia-Images
